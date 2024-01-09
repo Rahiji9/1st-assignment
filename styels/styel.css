@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 75%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.banner{
+  color:black;
+}
+
+
+.banner-text{
+  width: 75%;
+  max-width: 1440px;
+  margin: 300px auto;
+  
+}
+
